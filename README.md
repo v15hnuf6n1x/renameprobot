@@ -41,9 +41,9 @@ These functions can be done in a single download** 😍
 
 ## 💠 Easy Way :
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/renameprobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/v15hnuf6n1x/renameprobot)
 
-## 💠 In linux Servers Or VPS:
+## 💠 In li Servers Or VPS:
 
 ### Create **config.py** with variables as given below
 
